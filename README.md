@@ -6,3 +6,5 @@
 4. We do all the changes in this branch only.
 5. And then git push the updates to our account
 6. After that, on the GitHub there is a button pull request for your changes.
+
+# Push and pull
